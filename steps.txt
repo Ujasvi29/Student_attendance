@@ -1,0 +1,15 @@
+python -m venv venv
+
+venv\Scripts\activate
+
+python.exe -m pip install --upgrade pip
+
+pip install opencv-python face_recognition cvzone firebase_admin numpy pickle
+
+cd C:\FaceRecognition
+& ".\venv\Scripts\Activate.ps1"
+
+python encode_upload.py
+
+python init_firebase_data.py
+
