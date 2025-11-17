@@ -15,13 +15,13 @@ I've designed a cutting-edge face recognition-based attendance system that captu
 <h1>ENCODING:</h1>
 
 
-![Encode-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f22f976f-4a3e-4ec0-b0bb-6e7c4dd1cb30)
+
 
 
 
 <h1>SCANNING:</h1>
 
-![active scaning gif](https://github.com/user-attachments/assets/09bbc478-9320-4c7d-8759-9050f2621aaf)
+
 
 
 
@@ -30,7 +30,7 @@ I've designed a cutting-edge face recognition-based attendance system that captu
  <h1>STUDENT'S INFO:</h1>Shows comprehensive student information, including TOTAL ATTENDANCE, COURSE, BRANCH, BATCH, LAST MARKED ATTENDANCE providing a complete view of the student profile.
  
  
- ![student info gif](https://github.com/user-attachments/assets/5bb8f2ee-fe3b-454a-b7b8-6429072b1c01)
+
 
 
 <br>
