@@ -21,9 +21,6 @@ I've designed a cutting-edge face recognition-based attendance system that captu
 
 <h1>SCANNING:</h1>
 
-![student output](https://github.com/user-attachments/assets/6a9c0bba-6da5-4ce1-aacd-767817ae5292)
-
-
 
 
 <br>
@@ -34,6 +31,15 @@ I've designed a cutting-edge face recognition-based attendance system that captu
 
 <br>
  <h1>MARKED STATUS:</h1>:Attendance is taken successfully
+
+![WhatsApp Image 2025-11-17 at 08 28 01_275f9d95](https://github.com/user-attachments/assets/d0ee23f4-80bf-4c0c-ac40-dc83bdc02644)
+
+
+
+
+![WhatsApp Image 2025-11-17 at 08 28 01_7898821d](https://github.com/user-attachments/assets/020857a2-032a-4c9d-b3ef-fd28b6a9be32)
+
+![WhatsApp Image 2025-11-17 at 08 28 01_d61dee38](https://github.com/user-attachments/assets/804809e4-fa4f-4c48-b56a-803b646c774b)
 
 
 
