@@ -59,7 +59,7 @@ I've designed a cutting-edge face recognition-based attendance system that captu
 
 
 
-![lastmarkedgif](https://github.com/user-attachments/assets/6c0440c3-7558-44ad-9076-2d8d09cf31a5)
+
 
 
 
