@@ -51,8 +51,7 @@ I've designed a cutting-edge face recognition-based attendance system that captu
 <br>
  <h1>DATABASE AT BACKEND:</h1>Efficiently stores and retrieves student records and images using Firebase's real-time database and cloud storage, ensuring data is always up-to-date and accessible.
  
-
-![Db2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/900b002e-d1e1-4214-a697-fcada62399b4) 
+ 
 
 
 <br>
