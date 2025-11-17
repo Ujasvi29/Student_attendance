@@ -21,6 +21,7 @@ I've designed a cutting-edge face recognition-based attendance system that captu
 
 <h1>SCANNING:</h1>
 
+![student output](https://github.com/user-attachments/assets/6a9c0bba-6da5-4ce1-aacd-767817ae5292)
 
 
 
@@ -31,21 +32,13 @@ I've designed a cutting-edge face recognition-based attendance system that captu
  
  
 
-
-
 <br>
  <h1>MARKED STATUS:</h1>:Attendance is taken successfully
 
-![studentinfo gif](https://github.com/user-attachments/assets/bdef1d36-3d03-4027-a1d1-8ac14f77e641)
 
 
 <br>
  <h1>ALREADY MARKED STATUS:</h1>This model ensure that students are not marked present multiple times within a short period, maintaining the integrity of attendance records.
-
-
-
-![alreadymarked gif](https://github.com/user-attachments/assets/70f6bab7-d33f-49e6-9481-6f5cca942760)
-
 
 
 <br>
